@@ -3,4 +3,5 @@ function sayHi(){
     console.log("Say, Hi Now please");
 }
 // fxn call
-sayHi();
+sayHi(10);
+sayHi("hiiiiiiiiiiiiiiiiiiiiiiiiii now")
