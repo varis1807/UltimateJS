@@ -2,5 +2,5 @@
 function sayHi(){
     console.log("Say, Hi Now please");
 }
-// fxn 
+// fxn call
 sayHi();
