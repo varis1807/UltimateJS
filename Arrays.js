@@ -11,3 +11,17 @@ while(i< array.length){
 }
 
 //push , unshift
+
+array.push("last val");
+array.unshift("first value");
+console.log(array);
+
+//shift, pop
+array.shift();
+array.pop();
+console.log(array);
+
+// slice==>
+// start index, ending index
+let partOfArray = array.slice(2,4);
+
